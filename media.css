@@ -1,0 +1,345 @@
+@media screen and (max-width: 1280px) {
+  .photo_item_name {
+    width: 84%;
+}
+.photo_item_icon {
+    margin-left: 37px;
+}
+.photo_item_name {
+    width: 79%;
+    padding-top: 97px;
+    padding-left: 49px;
+}
+.photo_item_name span {
+    font-size: 23px;
+}
+  .knowlage {
+    width: 88%;
+    padding-top: 524px;
+  }
+  .knowlage_second {
+    width: 88%;
+}
+.travel_places {
+    width: 88%;
+}
+.travel_date {
+    width: 26%;
+}
+.skills_infrormation_card {
+    width: 88%;
+}
+}
+@media screen and (max-width: 992px) {
+  .skills_infrormation_card {
+    width: 94%;
+}
+  .names_card_item {
+    padding: 30px 46px;
+}
+.photo_item {
+    width: 54%;
+    height: 405px;
+}
+.photo_item_icon {
+    margin-left: 25px;
+}
+.photo_item_name {
+    width: 79%;
+    padding-top: 76px;
+    padding-left: 53px;
+}
+.photo_item_name .second_item {
+    padding-left: 33px;
+    letter-spacing: 4px;
+}
+.photo_item_name span {
+    font-size: 20px;
+}
+.photo_item_icon {
+    width: 197px;
+    height: 197px;
+    margin-left: 10px;
+}
+.names_card_item_greating p {
+    font-family: roboto;
+    font-weight: 400;
+    line-height: 1.8;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    padding-top: 22px;
+    color: #666666;
+}
+.age_job_information_item {
+    padding: 5px 0;
+}
+.age_job_information_item :first-child {
+    font-weight: bold;
+    font-family: roboto;
+    font-size: 15px;
+    color: #666666;
+}
+  .knowlage {
+    width: 93%;
+    padding-top: 543px;
+}
+.knowlage_second {
+    width: 93%;
+}
+  .knowlage_item {
+    width: 21.9%;
+}
+.knowlage_item {
+    width: 21.9%;
+    padding: 35px 33px 31px;
+}
+.travel_greating {
+    width: 56%;
+}
+.travel_date {
+    width: 35%;
+}
+.travel_item_text {
+    font-family: roboto;
+    padding: 20px 16px 39px;
+    line-height: 32px;
+}
+.travel_item img {
+    width: 100%;
+    height: 245px;
+}
+.travel_item_text p {
+    font-size: 15px;
+    line-height: 26px;
+}
+.read_more {
+    width: 37%;
+}
+.all_blog_posts {
+    width: 21%;
+}
+}
+@media screen and (max-width: 768px) {
+  .knowlage {
+    width: 93%;
+    padding-top: 738px;
+}
+  .informayion_card_item {
+    background: white;
+    width: 100%;
+}
+.age_job_information_item :last-child {
+    font-size: 14px;
+}
+.photo_item_name .second_item {
+    padding-left: 0px;
+    letter-spacing: 4px;
+    margin-right: 0px;
+}
+.photo_item_name .second_item {
+    padding-left: 30px;
+    letter-spacing: 4px;
+}
+.names_card_item {
+    padding: 0px 46px;
+}
+.skills {
+    padding-bottom: 60px;
+}
+  .skills_infrormation_card_wrapper {
+      display: block;
+      padding-bottom: 71px;
+  }
+  .photo_item {
+    width: 65%;
+    height: 405px;
+    margin: 0 auto;
+}
+.photo_item_name {
+    width: 72%;
+    padding-top: 50px;
+    padding-left: 53px;
+}
+.age_job_information {
+    padding-top: 29px;
+    padding-bottom: 30px;
+}
+.names_card_item_greating span {
+    font-size: 21px;
+
+}
+.names_card_item_greating p {
+    font-size: 14px;
+}
+.knowlage_greating {
+    padding-bottom: 21px;
+}
+.knowlage_wrapper {
+    display: block;
+    width: 100%;
+}
+.knowlage_item {
+    width: 40.9%;
+    padding: 35px 126px 42px;
+    margin-left: 40px;
+    margin: 38px 41px;
+    margin: 0 auto;
+    margin-top: 23px;
+}
+.travel_wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.travel_item img {
+    width: 100%;
+    height: 198px;
+}
+.travel_places .travel_item {
+    width: 48.9%;
+}
+.read_more {
+    width: 48%;
+}
+}
+@media screen and (max-width: 600px) {
+  .knowlage{
+        padding-top: 792px;
+  }
+  .travel_wrapper {
+      display: block;
+      width: 100%;
+      display: block;
+  }
+  .travel_places {
+    padding-top: 44px;
+}
+  .travel_greating {
+    padding-bottom: 0px;
+}
+.travel_places .travel_item {
+    width: 99.9%;
+    margin-top: 35px;
+}
+  .travel_wrapper:last-child {
+    padding-top: 3px;
+}
+  .travel_places .travel_item {
+    width: 99.9%;
+}
+.photo_item_name {
+    width: 90%;
+    padding-top: 50px;
+    padding-left: 21px;
+}
+.photo_item_icon {
+    width: 180px;
+    height: 180px;
+    margin-left: 28px;
+}
+.names_card_item {
+    padding: 0px 46px;
+    line-height: 16px;
+}
+.read_more {
+    width: 30%;
+}
+.travel_item img {
+    width: 100%;
+    height: 280px;
+}
+.all_blog_posts {
+    width: 32%;
+}
+.all_blog_posts {
+    margin-top: 60px;
+}
+}
+@media screen and (max-width: 480px) {
+  .informayion_card_item {
+      width: 94%;
+  }
+  .photo_item_icon {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+  .photo_item {
+    width: 100%;
+    height: 405px;
+    margin: 0 auto;
+}
+.photo_item_name {
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 0px;
+}
+.photo_item {
+    width: 100%;
+    height: 348px;
+    margin: 0 auto;
+}
+.photo_item_text {
+    padding-top: 27px;
+    line-height: 35px;
+    text-align: center;
+}
+.photo_item_name .second_item {
+    padding-left: 0px;
+    letter-spacing: 4px;
+}
+.names_card_item_greating span {
+    font-size: 18px;
+}
+  .names_card_item {
+    padding: 0px 15px;
+    line-height: 11px;
+}
+.names_card_item_greating p {
+    font-size: 13px;
+}
+.age_job_information_item :last-child {
+    font-size: 13px;
+}
+.age_job_information_item :first-child{
+    font-size: 13px;
+}
+.knowlage {
+    padding-top: 762px;
+}
+.knowlage_greating {
+    margin: 0 auto;
+    width: 53%;
+    font-size: 14px;
+}
+.knowlage_second {
+    padding-top: 50px;
+}
+  .knowlage_item {
+    width: 49.9%;
+    padding: 35px 59px 42px;
+    margin-top: 23px;
+}
+.travel_greating {
+    width: 89%;
+    font-size: 14px;
+}
+.travel_item img {
+    width: 100%;
+    height: 221px;
+}
+.read_more {
+    width: 45%;
+}
+.all_blog_posts {
+    width: 49%;
+}
+.footer_text {
+    width: 84%;
+    margin: 0 auto;
+    font-size: 19px;
+}
+}
+@media screen and (max-width: 320px) {
+
+}
