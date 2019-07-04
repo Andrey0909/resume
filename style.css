@@ -209,7 +209,37 @@ margin: 0 auto;
   padding-top: 10px;
   letter-spacing: 3px;
   line-height: 26px
+}
+.knowlage_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
 
+.knowlage_item_p {
+  position: absolute;
+  width: 80%;
+  line-height: 1.8;
+  color: #666666;
+  font-weight: 400;
+  font-size: 15px;
+  transition: .5s;
+  opacity: 0;
+  transform: scale(0);
+}
+.knowlage_item_wrapper {
+  transition: .5s;
+  opacity: 1;
+}
+.knowlage_item:hover .knowlage_item_wrapper{
+  opacity: 0;
+}
+.knowlage_item:hover .knowlage_item_p{
+  opacity: 1;
+  visibility: visible;
+  transform: scale(1);
 }
 .knowlage_item_text span{
   display: block;
